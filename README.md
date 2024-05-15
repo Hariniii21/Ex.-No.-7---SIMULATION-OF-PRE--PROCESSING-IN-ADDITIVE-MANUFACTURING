@@ -44,9 +44,16 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![exp6 1i](https://github.com/Hariniii21/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147140423/a05b8937-7f89-4fa0-baa0-af60521130e5)
+![exp6 1ii](https://github.com/Hariniii21/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147140423/25877dd3-5ba7-4544-b498-8e33bdf7007d)
+![exp6 1iii](https://github.com/Hariniii21/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147140423/0cd417a0-d8aa-4440-a061-1a3c3f2ea3d8)
+![exp6 1iv](https://github.com/Hariniii21/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147140423/fa5fc6cc-5a1d-41ac-ab63-b047b0ac2b12)
 
-### Name:
-### Register Number:
+
+
+
+### Name: Harini.S
+### Register Number: 212223240048
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
